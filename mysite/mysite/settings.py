@@ -25,7 +25,9 @@ SECRET_KEY = 'fta*$=mw3a*+ok0ja99mx^@2unzo88eygj2#f-qu3ow34*()m2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+        'shakandrew.pythonanywhere.com',
+        ]
 
 
 # Application definition
